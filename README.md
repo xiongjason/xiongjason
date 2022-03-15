@@ -11,7 +11,7 @@ Strengths :muscle:
 - Team player
 - Good time and task management
 - Interested in new tech
-- Not afraid to ask questions and learn.
+- Not afraid to ask questions and learn
 
 Tech experience :computer:
 - Python
