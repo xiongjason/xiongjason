@@ -13,7 +13,7 @@ Strengths :muscle:
 - Interested in new tech
 - Not afraid to ask questions and learn
 
-Tech experience :computer:
+Highlighted Tech experience :computer:
 - Python
 - JavaScript
 - ReactJS
